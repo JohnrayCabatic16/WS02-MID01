@@ -1,5 +1,5 @@
 html, body{
-    font-family: Arial, sans-serif;
+    font-family:serif;
     margin: 0;
 }
 header{background: rgb(42, 20, 52);
@@ -7,6 +7,10 @@ header{background: rgb(42, 20, 52);
 text-align:center;
 padding: 2%;
 
+}
+@font-face{
+    font-family: bloodcrow;
+    src: url(bloodcrow.ttf);
 }
 
 
